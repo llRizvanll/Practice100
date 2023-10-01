@@ -1,3 +1,5 @@
+package Arrays.matrix
+
 fun main(args: Array<String>) {
 
     val arr = arrayOf(intArrayOf(1, 1, 1), intArrayOf(1, 0, 1), intArrayOf(1, 1, 1))
