@@ -1,7 +1,10 @@
 # Practice100
 
 # Day 1  
-Problem  :  https://leetcode.com/problems/set-matrix-zeroes/
+Problem Statement:  https://leetcode.com/problems/set-matrix-zeroes/
 
 # Day 2  
-Problems :  https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+Problem Statement:  https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+
+# Day 3 
+Problem Statement: https://leetcode.com/problems/reverse-words-in-a-string/description/
