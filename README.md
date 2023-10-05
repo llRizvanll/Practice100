@@ -8,3 +8,9 @@ Problem Statement:  https://leetcode.com/problems/best-time-to-buy-and-sell-stoc
 
 # Day 3 
 Problem Statement: https://leetcode.com/problems/reverse-words-in-a-string/description/
+
+# Day 4
+Problem Statement:  https://leetcode.com/problems/middle-of-the-linked-list/
+
+# Day 5 
+Problem Statement: https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
