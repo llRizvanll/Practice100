@@ -13,13 +13,13 @@ package LinkedList.middle
  *     var next: LinkNode? = null
  * }
  */
-    fun MiddleElement(node : LinkNode) : LinkNode? {
-        var p1 = node.head
-        var p2 = node.head
-
-        while (p2!= null && p2.next != null){
-            p1 = p1?.next;
-            p2 = p2?.next?.next;
-        }
-        return p1;
-    }
+//    fun MiddleElement(node : LinkNode) : LinkNode? {
+//        var p1 = node.head
+//        var p2 = node.head
+//
+//        while (p2!= null && p2.next != null){
+//            p1 = p1?.next;
+//            p2 = p2?.next?.next;
+//        }
+//        return p1;
+//    }
