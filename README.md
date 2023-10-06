@@ -14,3 +14,6 @@ Problem Statement:  https://leetcode.com/problems/middle-of-the-linked-list/
 
 # Day 5 
 Problem Statement: https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
+
+# Day 6
+Problem Statement: https://leetcode.com/problems/integer-to-english-words/description/
