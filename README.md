@@ -17,3 +17,6 @@ Problem Statement: https://leetcode.com/problems/reverse-words-in-a-string-iii/d
 
 # Day 6
 Problem Statement: https://leetcode.com/problems/integer-to-english-words/description/
+
+# Day 7
+Problem Statement: https://leetcode.com/problems/reverse-linked-list/description/
