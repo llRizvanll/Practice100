@@ -10,5 +10,5 @@
 | `#5` | reverse-words-in-a-string-iii | https://leetcode.com/problems/reverse-words-in-a-string-iii/ |
 | `#6` | Integer to English words | https://leetcode.com/problems/integer-to-english-words/ |
 | `#7` | Reverse a Linked list | https://leetcode.com/problems/reverse-linked-list/description/ |
-| `#8` | Max Consecutive ones | https://leetcode.com/problems/reverse-linked-list/description/ |
+| `#8` | Max Consecutive ones | https://leetcode.com/problems/max-consecutive-ones/description/ |
 
