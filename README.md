@@ -11,4 +11,6 @@
 | `#6` | Integer to English words | https://leetcode.com/problems/integer-to-english-words/ |
 | `#7` | Reverse a Linked list | https://leetcode.com/problems/reverse-linked-list/description/ |
 | `#8` | Max Consecutive ones | https://leetcode.com/problems/max-consecutive-ones/description/ |
+| `#9` | Max Longest Consecutive ones | https://leetcode.com/problems/max-consecutive-ones-iii/description/ |
+| `#10` | Merge Sorted Array | https://leetcode.com/problems/merge-sorted-array/description/ |
 
