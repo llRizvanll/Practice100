@@ -14,4 +14,5 @@
 | `#9` | Max Longest Consecutive ones | https://leetcode.com/problems/max-consecutive-ones-iii/description/ |
 | `#10` | Merge Sorted Array | https://leetcode.com/problems/merge-sorted-array/description/ |
 | `#11` | Two Sum Array Indices | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/ |
+| `#12` | Find All pairs in given sum | https://www.geeksforgeeks.org/print-all-pairs-with-given-sum/ |
 
