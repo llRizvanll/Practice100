@@ -2,7 +2,7 @@ package Arrays.pairs
 
 /***
  * https://www.geeksforgeeks.org/print-all-pairs-with-given-sum/
- *
+https://leetcode.com/discuss/study-guide/3956249/Unique-Pairs-with-Target-Sum
  * Given an array of integers, and a number ‘sum’, print all pairs in the array whose sum is equal to ‘sum’.
  *
  * Examples :
