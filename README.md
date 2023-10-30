@@ -18,5 +18,6 @@
 | `#13` | Return K-diff pairs an array | https://leetcode.com/problems/k-diff-pairs-in-an-array/description/ |
 | `#14` | Shift given element to end of an array | https://leetcode.com/problems/move-zeroes/ |
 | `#15` | Increasing Triplet Subsequence | https://leetcode.com/problems/increasing-triplet-subsequence/description/ |
+| `#16` |  Longest Increasing Subsequence | https://leetcode.com/problems/longest-increasing-subsequence/description/ |
 
 
