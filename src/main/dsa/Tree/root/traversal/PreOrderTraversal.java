@@ -1,5 +1,8 @@
 package Tree.root.traversal;
 
+/**
+ * https://leetcode.com/problems/binary-tree-preorder-traversal/description/
+ */
 class PreOrderNode{
     int data;
     PreOrderNode left,right;
