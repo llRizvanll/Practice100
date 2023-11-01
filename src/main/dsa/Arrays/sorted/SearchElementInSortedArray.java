@@ -35,6 +35,7 @@ package Arrays.sorted;
  * All values of nums are unique.
  * nums is an ascending array that is possibly rotated.
  * -104 <= target <= 104
+ * https://leetcode.com/problems/search-in-rotated-sorted-array/description/
  */
 public class SearchElementInSortedArray {
 
