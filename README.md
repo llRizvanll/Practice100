@@ -19,5 +19,9 @@
 | `#14` | Shift given element to end of an array | https://leetcode.com/problems/move-zeroes/ |
 | `#15` | Increasing Triplet Subsequence | https://leetcode.com/problems/increasing-triplet-subsequence/description/ |
 | `#16` |  Longest Increasing Subsequence | https://leetcode.com/problems/longest-increasing-subsequence/description/ |
+| `#17` |  InOrder Traversal | https://leetcode.com/problems/binary-tree-inorder-traversal/description/ |
+| `#18` |  Pre Order Traversal | https://leetcode.com/problems/binary-tree-preorder-traversal/ |
+| `#19` |  Post Order Traversal | https://leetcode.com/problems/binary-tree-postorder-traversal/ |
+| `#20` |  Max. Depth of a Tree! | https://leetcode.com/problems/maximum-depth-of-binary-tree/description/ |
 
 
