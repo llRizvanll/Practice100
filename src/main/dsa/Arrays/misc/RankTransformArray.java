@@ -8,11 +8,20 @@ public class RankTransformArray {
     public static int[] arrayRankTransform(int[] arr) {
         int[] rankedArray = arr.clone();
         Map<Integer, Integer> map = new LinkedHashMap<>();
+
+        // sort the array
         Arrays.sort(arr);
+
+
         int rank = 1;
+
+        // if empty array return
         if(arr.length==0) return arr;
+
+        // first element
         int prev = arr[0];
 
+        // increment rank if its not the same number
         for (int num : arr) {
             if (prev != num) {
                 rank++;
@@ -21,6 +30,7 @@ public class RankTransformArray {
             prev = num;
         }
 
+        //add position or rank based on key ranking value
         for (int i = 0; i < rankedArray.length; i++) {
             rankedArray[i] = map.get(rankedArray[i]);
         }
