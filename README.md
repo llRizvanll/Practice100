@@ -2,7 +2,7 @@
 
 
 | Day   | Problem Description                    | Leet code Link |
-|-------|----------------------------------------| --- |
+|-------|----------------------------------------|  |
 | `#1`  | Set Matrix zeroes                      | https://leetcode.com/problems/set-matrix-zeroes/ |
 | `#2`  | best-time-to-buy-and-sell-stock        | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ |
 | `#3`  | reverse-words-in-a-string              | https://leetcode.com/problems/reverse-words-in-a-string/ |
@@ -26,5 +26,5 @@
 | `#21` | Add Two Sum LinkedList                 | https://leetcode.com/problems/add-two-numbers/description/ |
 | `#22` | Search in Rotated Sorted Array         | https://leetcode.com/problems/search-in-rotated-sorted-array/description/ |
 | `#23` | Perfect number divisor                 | https://leetcode.com/problems/perfect-number/description/ |
-
+| `#23` | Rank Transform of an Array             | https://leetcode.com/problems/rank-transform-of-an-array/description/ |
 
