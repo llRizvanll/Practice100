@@ -25,5 +25,6 @@
 | `#20` | Max. Depth of a Tree!                  | https://leetcode.com/problems/maximum-depth-of-binary-tree/description/ |
 | `#21` | Add Two Sum LinkedList                 | https://leetcode.com/problems/add-two-numbers/description/ |
 | `#22` | Search in Rotated Sorted Array         | https://leetcode.com/problems/search-in-rotated-sorted-array/description/ |
+| `#23` | Perfect number divisor                 | https://leetcode.com/problems/perfect-number/description/ |
 
 
