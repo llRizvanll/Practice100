@@ -27,4 +27,5 @@
 | `#22` | Search in Rotated Sorted Array         | https://leetcode.com/problems/search-in-rotated-sorted-array/description/ |
 | `#23` | Perfect number divisor                 | https://leetcode.com/problems/perfect-number/description/ |
 | `#24` | Rank Transform of an Array             | https://leetcode.com/problems/rank-transform-of-an-array/description/ |
+| `#24` | Decrypt lowercase letters              | https://leetcode.com/problems/rank-transform-of-an-array/description/ |
 
